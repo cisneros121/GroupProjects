@@ -1,5 +1,5 @@
 package mucahit;
 
-public class Test0099 {
+public class mucahit_testCase099 {
     //Hello world
 }
